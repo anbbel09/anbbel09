@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrolladora FullStack con orientación front-end en busca de primeras experiencias para poner<br>aprueba mis conocimientos 💻<br><br> 🪐 Pásate por mi repo para ver mis últimos proyectos 🌠<br><br>
+Desarrolladora FullStack MERN en busca de primeras experiencias para poner<br>aprueba mis conocimientos 💻<br><br> 🪐 Pásate por mi repo para ver mis últimos proyectos 🌠<br><br>
 
 
 ## 🌐 Socials:
